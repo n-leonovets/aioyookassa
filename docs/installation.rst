@@ -5,7 +5,7 @@ Installation
 ===============
 
 
-.. tip:: Supported Python versions: `3.7` and higher
+.. tip:: Supported Python versions: `3.10` and higher
 
 Stable release
 ------------------
