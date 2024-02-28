@@ -20,7 +20,7 @@ keywords = [
 [tool.poetry.dependencies]
 python = "^3.11"
 pydantic = "^2.5.3"
-aiohttp = "^3.9.1"
+aiohttp = "^3.8.0"
 
 [tool.poetry.dev-dependencies]
 
